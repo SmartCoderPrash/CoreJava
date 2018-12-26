@@ -20,6 +20,8 @@ public class Array {
 		Number[] n = new Number[10];
 		n[0] = new Integer(11);
 		//n[1] = new Number();
+		
+		System.out.println("done");
 	}
 
 }
